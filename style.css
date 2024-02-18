@@ -50,12 +50,12 @@ body {
   cursor: pointer;
 }
 
-.btn1{
-  background-color: #e61e17;
+.controls-btn:hover {
+  outline: 1px solid rgba(0, 0, 0, 0.5);
 }
 
-.controls-btn:hover {
-  outline: 1px solid rgba(245, 245, 245, 0.5);
+.btn1{
+  background-color: #e61e17;
 }
 
 .btn2 {
