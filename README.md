@@ -12,4 +12,4 @@ Steps to see it running:
 3.click on index.html and you will have it running on local mechine.<br>
 
 Hope you like it.<br>
-Happy Coding!!
+Happy Coding!
